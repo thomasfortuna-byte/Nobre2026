@@ -1,0 +1,3 @@
+Milimetragem 5 mm → Rigidez média (reta): 21.848 N/mm
+
+Rigidez média geral (reta entre todos os grupos): 21.848 N/mm

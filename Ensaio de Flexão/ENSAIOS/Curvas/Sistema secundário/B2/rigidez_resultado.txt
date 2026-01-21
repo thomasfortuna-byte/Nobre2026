@@ -1,0 +1,5 @@
+Milimetragem 5 mm → Rigidez média (reta): 0.109 N/mm
+Milimetragem 7 mm → Rigidez média (reta): 0.066 N/mm
+Milimetragem 9 mm → Rigidez média (reta): 0.107 N/mm
+
+Rigidez média geral (reta entre todos os grupos): 0.094 N/mm
